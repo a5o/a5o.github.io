@@ -16,7 +16,7 @@
 title: a5o
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-	A blog about productivity and coding
+    A blog about productivity and coding
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
